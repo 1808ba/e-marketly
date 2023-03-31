@@ -1,0 +1,40 @@
+
+#carousel {  
+    /* width: 100%; */
+    white-space: nowrap;
+    overflow: hidden;
+    position: absolute;
+  }
+  
+  .slide-image {
+  
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-size : cover; 
+    display: inline-block;
+    
+  }
+  /* .imageText{
+      text-align: center;
+      font-size: 3em;
+      font-weight: bold;
+      font-family: verdana, arial, sans-serif;
+      color: rgb(0, 0, 255);
+      
+  } */
+
+
+
+#slide1 {
+    background-image: url('../images/home-img-1.png');
+  }
+  
+  #slide2 {
+    background-image: url('../images/home-img-2.png');
+  }
+  
+  #slide3 {
+    background-image: url('../images/home-img-3.png');
+  }
+
